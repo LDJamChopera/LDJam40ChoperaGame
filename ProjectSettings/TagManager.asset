@@ -42,3 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Stores
+    uniqueID: 2213818591
+    locked: 0
+  - name: Characters
+    uniqueID: 826335715
+    locked: 0
